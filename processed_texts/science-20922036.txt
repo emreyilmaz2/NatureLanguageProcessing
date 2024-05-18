@@ -1,0 +1,63 @@
+geoid map earth gravity yield planet
+video april fool joke earth really shaped like potato
+however shape see um slightly exaggerated highlight irregularity
+another caveat depicted shape planet rather shape idealized surface extending around entire globe surface earth scientist call geoid
+video accurate reconstruction geoid date released european space agency scientific meeting munich march see video related press conference
+based data collected esa gravity field ocean circulation explorer goce
+long probe low orbit almost exactly two year collecting painstakingly accurate measurement gravitational field earth
+ala many web site blog reported goce result far got wrong
+contrary stated report geoid surface strength gravity every point
+geoid word oceanographer goce team surface placed marble anywhere would stay rather rolling direction
+another way saying imagine engineer traveling around world level
+wherever go level would exactly parallel geoid place
+yet another equivalent definition surface everywhere perpendicular direction word gravitational field
+gravity need strength everywhere geoid
+word could walk geoid would see gravity always pointing exactly downwards weight could slightly change one region another
+misunderstanding may stemmed confusion two concept multivariable calculus vector field potential
+vector field case gravity field potential gravitational potential essentially gravitational energy unit mass
+point space gravity field seen direction gravitational potential rise fastest
+magnitude length rate change potential
+field defined way called gradient vector field potential
+general gradient quantity defined space version derivative quantity sense calculus
+pedantic historical reason gravity field defined opposite vector gradient potential
+follow gravitational field line curve every point tangent vector field point would follow curve steepest ascent gravitational potential
+called gradient
+note inertia field line gravitational field necessarily trajectory body free fall
+field wo tell direction moving direction accelerate
+gradient vector field difficult grasp picturing potential visualize ascent descent would require fourth dimension
+analogy might help
+think water trickle hilly surface
+neglecting inertia droplet water would follow curve steepest descent vector field made vector along surface
+analogy elevation droplet analogue potential point
+analogue geoid elevation contour topographical map potential height constant along contour
+obviously part contour steep terrain whereas others mild gradient
+topographical map slope steeper many different contour line crowded together
+magnitude gradient vector field represents steepness slope point contour
+thus gravity change strength along geoid geoid shape gravity matter stood one blogger put
+earth would look like shape distorted make gravity everywhere surface reported major news site went add area strongest gravity yellow weakest blue apparently noticing contradiction previous sentence
+many reason geoid sphere
+first foremost earth sphere
+closer ellipsoid flattened pole centrifugal force rotation
+planet ellipsoid either topography
+mountain valley asymmetrical distribution mass
+mass distribution affect gravitational field make geoid asymmetrical
+earth inner outer structure
+oceanic crust landmass continental shelf made different material different density farther mantle uniform either region slightly different composition temperature thus slightly different density
+variation reiner rummel senior goce scientist told email reflect process deep earth mantle descending tectonic plate hot mantle plume
+affect strength gravitational field goce orbit
+probe measure effect thus measure gravitational field
+geoid confused anomaly due topography land although affected part
+also thing get really tricky confused actual sea level
+wait minute say ocean supposed sea level definition
+except relatively small perturbation wave tide say surface exactly horizontal perpendicular gravitational field everywhere
+sea level mean
+yes approximation
+however ocean homogenous
+difference salinity temperature make le dense
+moreover earth rotation produce force keep ocean constant motion
+like water river level flow sea reason water ocean also difference height
+height clear mean elevation relative geoid positive negative
+oceanographer thus speak topography ocean meaning really hill valley
+fact ocean circulation part goce name come play one main goal mission measure ocean topography deduce structure oceanic current
+deviation geoid simplified ellipsoidal model earth substantial range meter dark blue video meter yellow rummel say
+surface video geoid amplified factor say goce mission manager rune floberghagen

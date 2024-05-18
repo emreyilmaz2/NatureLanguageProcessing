@@ -1,0 +1,25 @@
+nosql helping allay seattle radiation fear
+researcher university washington utilized cloudant nosql database part experiment determined radiation level seattle result recent fukushima nuclear disaster well alarming limit
+research team includes cloudant founder chief scientist mike miller title research associate professor physic studied particle captured five air filter university physic astronomy building used cloudant bigcouch database store process data experiment
+research team shielded germanium detector data acquisition hardware
+team result show radioactive particle first reached seattle march le abundant volume type expected based research carried chernobyl disaster
+fact project official website state stress overall amount radioactivity extremely low least thousand time epa limit
+miller attribute difference radiation level resulting chernobyl fact reactor chernobyl operating full steam exploded whereas team research suggests fukushima plant automatic safety system must kicked earthquake hit turning reactor process
+miller association cloudant certainly influenced team decision use product bigcouch nosql counterpart particularly type job
+according miller team created setup order start monitoring radiation level hurry
+installing special air filter sampling gigantic quantity air trapped particle run germanium detector determine unique fingerprint isotope created nuclear fission
+miller say general belief radioactive isotope travel air attached dust particle concrete particle explosion
+cloudant bigcouch database let team keep steady flow data could process analyze share various stakeholder
+team changing data time per day writing complex workflow process two task fall bigcouch wheelhouse
+database mapreduce engine enable writing processing workflow allows secondary index user populate new data mapreduce job query quickly
+miller actually helped create cloudant research mit involved analyzing huge data set cern large hadron collider
+although human might risk radiation scientific experiment might lucky
+article university washington office news information miller colleague hamish robertson explained radiation level raise havoc sensitive physic experiment
+includes one called majorana uw physicist deeply involved planned lab nearly one mile proposed deep underground science engineering laboratory old homestake mine lead miller told project involves trying determine universe made suspended next step bring highly sensitive homegrown copper underground machining even trace level radiation present south dakota could taint ruin experiment
+paper sharing team result insight mention uncertainty based question particle size trying capture miller said team made progress front confident result
+team release final paper soon detail larger time frame data point
+related content gigaom pro subscription req defining hadoop player technology challenge putting big data work opportunity enterprise scalable data store around nosql
+copyright gigaom
+right reserved
+gigaom independent blog network
+read

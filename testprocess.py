@@ -24,7 +24,7 @@ def preprocess(text):
     return ' '.join(tokens)
 
 # XML dosyalarının bulunduğu dizin
-input_directory = 'Dataset/ake-datasets-master/datasets/500N-KPCrowd/train'  # Bu dizini kendi XML dosyalarınızın bulunduğu dizinle değiştirin
+input_directory = 'Dataset/500N-KPCrowd/train'  # Bu dizini kendi XML dosyalarınızın bulunduğu dizinle değiştirin
 
 # TXT dosyalarının kaydedileceği dizin
 output_directory = 'processed_texts'  # Bu dizini kendi hedef dizininizle değiştirin

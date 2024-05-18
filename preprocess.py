@@ -95,7 +95,7 @@ if __name__ == "__main__":
     # Ortamı ayarla
 
     # Örnek kullanım
-    xml_folder = '/Users/selmanorhan/Documents/GitHub/NatureLanguageProcessing/Dataset/ake-datasets-master/datasets/500N-KPCrowd/train'
+    xml_folder = 'Dataset/500N-KPCrowd/train'
     user_interest_text = "I love fashion."
     top_n = 3
 

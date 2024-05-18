@@ -7,6 +7,12 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import numpy as np
 
+
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+
+
 # Metin Ön İşleme Fonksiyonu
 def preprocess(text):
     text = text.lower()

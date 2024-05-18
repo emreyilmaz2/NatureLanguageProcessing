@@ -75,7 +75,7 @@ class Command(BaseCommand):
     help = 'Load articles from XML dataset'
 
     def handle(self, *args, **kwargs):
-        xml_folder = '/Users/emreyilmaz/Downloads/ake-datasets-master/datasets/ACM/test'  # Bu yolu kendi XML dosyalarınızın bulunduğu dizin ile değiştirin
+        xml_folder = 'Dataset/500N-KPCrowd/train'  # Bu yolu kendi XML dosyalarınızın bulunduğu dizin ile değiştirin
         articles_data = load_dataset(xml_folder)
         
         for article_data in articles_data:
